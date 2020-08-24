@@ -1,0 +1,491 @@
+2020-08-24 11:52:32,859 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-08-24 11:53:17,031 [Worker-22: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: za.org.ccma.webcms:webcms-server:11.0.1 @ C:\Users\PheelloM\Documents\workspaces\ADCMS\webcms-server\pom.xml.
+2020-08-24 11:53:17,131 [Worker-3: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ldap.projects:ldaptest:0.0.1-SNAPSHOT @ C:\Users\PheelloM\Documents\workspaces\ADCMS\ldaptest\pom.xml.
+2020-08-24 11:53:17,589 [Worker-22: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-common: za.org.ccma.webcms:webcms-common:11.0.1 with classifier  to /webcms-common/target/classes
+2020-08-24 11:53:19,089 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 11:53:19,159 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-24 11:53:19,164 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 11:53:19,166 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-24 11:53:19,721 [Worker-5: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: za.org.ccma.webcms:webcms-server:11.0.1 @ C:\Users\PheelloM\Documents\workspaces\ADCMS\webcms-server\pom.xml.
+2020-08-24 11:53:19,982 [Worker-5: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-common: za.org.ccma.webcms:webcms-common:11.0.1 with classifier  to /webcms-common/target/classes
+2020-08-24 11:53:20,201 [Worker-5: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: za.org.ccma.webcms:webcms-tests:11.0.1 @ C:\Users\PheelloM\Documents\workspaces\ADCMS\webcms-tests\pom.xml.
+2020-08-24 11:53:20,273 [Worker-5: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-client: za.org.ccma.webcms:webcms-client:11.0.1 with classifier  to /webcms-client/target/classes
+2020-08-24 11:53:20,295 [Worker-5: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-common: za.org.ccma.webcms:webcms-common:11.0.1 with classifier  to /webcms-common/target/classes
+2020-08-24 11:53:20,306 [Worker-5: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-server: za.org.ccma.webcms:webcms-server:11.0.1 with classifier  to /webcms-server/target/classes
+2020-08-24 11:53:20,410 [Worker-5: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ldap.projects:ldaptest:0.0.1-SNAPSHOT @ C:\Users\PheelloM\Documents\workspaces\ADCMS\ldaptest\pom.xml.
+2020-08-24 11:53:20,574 [Worker-3: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: za.org.ccma.webcms:webcms-application:11.0.1 @ C:\Users\PheelloM\Documents\workspaces\ADCMS\webcms-application\pom.xml.
+2020-08-24 11:53:22,826 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 11:53:22,828 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-24 11:53:22,871 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 11:53:22,872 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\PheelloM\Documents\workspaces\ADCMS\webcms-application\src\test\resources
+2020-08-24 11:53:22,878 [Worker-3: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for webcms-application
+2020-08-24 11:53:22,896 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 11:53:22,898 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-08-24 11:53:24,415 [Worker-20: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: za.org.ccma.webcms:webcms-server:11.0.1 @ C:\Users\PheelloM\Documents\workspaces\ADCMS\webcms-server\pom.xml.
+2020-08-24 11:53:24,566 [Worker-20: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-common: za.org.ccma.webcms:webcms-common:11.0.1 with classifier  to /webcms-common/target/classes
+2020-08-24 11:53:24,603 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 11:53:24,626 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-24 11:53:25,517 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 11:53:25,518 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\PheelloM\Documents\workspaces\ADCMS\webcms-application\src\test\resources
+2020-08-24 11:53:25,660 [Worker-20: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: za.org.ccma.webcms:webcms-tests:11.0.1 @ C:\Users\PheelloM\Documents\workspaces\ADCMS\webcms-tests\pom.xml.
+2020-08-24 11:53:25,841 [Worker-20: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-client: za.org.ccma.webcms:webcms-client:11.0.1 with classifier  to /webcms-client/target/classes
+2020-08-24 11:53:25,867 [Worker-20: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-common: za.org.ccma.webcms:webcms-common:11.0.1 with classifier  to /webcms-common/target/classes
+2020-08-24 11:53:25,895 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 11:53:25,896 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-24 11:53:25,898 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 11:53:25,898 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\PheelloM\Documents\workspaces\ADCMS\webcms-application\src\test\resources
+2020-08-24 11:53:25,900 [Worker-0: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for webcms-application
+2020-08-24 11:53:25,900 [Worker-20: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-server: za.org.ccma.webcms:webcms-server:11.0.1 with classifier  to /webcms-server/target/classes
+2020-08-24 11:53:25,950 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 11:53:25,952 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-24 11:53:26,002 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: za.org.ccma.webcms:webcms-bundles:2.0 @ C:\Users\PheelloM\Documents\workspaces\ADCMS\webcms-bundles\pom.xml.
+2020-08-24 11:53:26,030 [Worker-20: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ldap.projects:ldaptest:0.0.1-SNAPSHOT @ C:\Users\PheelloM\Documents\workspaces\ADCMS\ldaptest\pom.xml.
+2020-08-24 11:53:30,257 [Worker-23: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: za.org.ccma.webcms:webcms-server:11.0.1 @ C:\Users\PheelloM\Documents\workspaces\ADCMS\webcms-server\pom.xml.
+2020-08-24 11:53:30,456 [Worker-23: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-common: za.org.ccma.webcms:webcms-common:11.0.1 with classifier  to /webcms-common/target/classes
+2020-08-24 11:53:30,567 [Worker-23: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: za.org.ccma.webcms:webcms-tests:11.0.1 @ C:\Users\PheelloM\Documents\workspaces\ADCMS\webcms-tests\pom.xml.
+2020-08-24 11:53:30,608 [Worker-23: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-client: za.org.ccma.webcms:webcms-client:11.0.1 with classifier  to /webcms-client/target/classes
+2020-08-24 11:53:30,618 [Worker-23: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-common: za.org.ccma.webcms:webcms-common:11.0.1 with classifier  to /webcms-common/target/classes
+2020-08-24 11:53:30,630 [Worker-23: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-server: za.org.ccma.webcms:webcms-server:11.0.1 with classifier  to /webcms-server/target/classes
+2020-08-24 11:53:30,706 [Worker-23: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ldap.projects:ldaptest:0.0.1-SNAPSHOT @ C:\Users\PheelloM\Documents\workspaces\ADCMS\ldaptest\pom.xml.
+2020-08-24 11:53:30,844 [Worker-23: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: za.org.ccma.webcms:webcms-standalone:11.0.1 @ C:\Users\PheelloM\Documents\workspaces\ADCMS\webcms-standalone\pom.xml.
+2020-08-24 11:53:30,851 [Worker-23: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-client: za.org.ccma.webcms:webcms-client:11.0.1 with classifier  to /webcms-client/target/classes
+2020-08-24 11:53:30,861 [Worker-23: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-common: za.org.ccma.webcms:webcms-common:11.0.1 with classifier  to /webcms-common/target/classes
+2020-08-24 11:53:30,866 [Worker-23: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-server: za.org.ccma.webcms:webcms-server:11.0.1 with classifier  to /webcms-server/target/classes
+2020-08-24 11:53:30,926 [Worker-23: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: za.org.ccma.webcms:webcms-common:11.0.1 @ C:\Users\PheelloM\Documents\workspaces\ADCMS\webcms-common\pom.xml.
+2020-08-24 11:53:31,018 [Worker-23: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: za.org.ccma.webcms:webcms-application:11.0.1 @ C:\Users\PheelloM\Documents\workspaces\ADCMS\webcms-application\pom.xml.
+2020-08-24 11:53:31,027 [Worker-23: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-server: za.org.ccma.webcms:webcms-server:11.0.1 with classifier  to /webcms-server/target/classes
+2020-08-24 11:53:31,027 [Worker-23: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-common: za.org.ccma.webcms:webcms-common:11.0.1 with classifier  to /webcms-common/target/classes
+2020-08-24 11:53:31,107 [Worker-23: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: za.org.ccma.webcms:webcms-client:11.0.1 @ C:\Users\PheelloM\Documents\workspaces\ADCMS\webcms-client\pom.xml.
+2020-08-24 11:53:31,125 [Worker-23: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-common: za.org.ccma.webcms:webcms-common:11.0.1 with classifier  to /webcms-common/target/classes
+2020-08-24 11:53:31,194 [Worker-23: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: za.org.ccma.webcms:webcms-webstart:11.0.1 @ C:\Users\PheelloM\Documents\workspaces\ADCMS\webcms-webstart\pom.xml.
+2020-08-24 11:53:31,218 [Worker-23: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: za.org.ccma.webcms:webcms-bundles:2.0 @ C:\Users\PheelloM\Documents\workspaces\ADCMS\webcms-bundles\pom.xml.
+2020-08-24 11:53:31,296 [Worker-23: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: za.org.ccma.webcms:webcms-standalone-configuration:11.0.1 @ C:\Users\PheelloM\Documents\workspaces\ADCMS\webcms-configuration\webcms-standalone-configuration\pom.xml.
+2020-08-24 11:53:31,360 [Worker-23: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: za.org.ccma.webcms:webcms-client-configuration:11.0.1 @ C:\Users\PheelloM\Documents\workspaces\ADCMS\webcms-configuration\webcms-client-configuration\pom.xml.
+2020-08-24 11:53:31,429 [Worker-23: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: za.org.ccma.webcms:webcms-server:11.0.1 @ C:\Users\PheelloM\Documents\workspaces\ADCMS\webcms-server\pom.xml.
+2020-08-24 11:53:31,434 [Worker-23: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-common: za.org.ccma.webcms:webcms-common:11.0.1 with classifier  to /webcms-common/target/classes
+2020-08-24 11:53:31,525 [Worker-23: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: za.org.ccma.webcms:webcms-tests:11.0.1 @ C:\Users\PheelloM\Documents\workspaces\ADCMS\webcms-tests\pom.xml.
+2020-08-24 11:53:31,530 [Worker-23: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-client: za.org.ccma.webcms:webcms-client:11.0.1 with classifier  to /webcms-client/target/classes
+2020-08-24 11:53:31,537 [Worker-23: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-common: za.org.ccma.webcms:webcms-common:11.0.1 with classifier  to /webcms-common/target/classes
+2020-08-24 11:53:31,543 [Worker-23: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-server: za.org.ccma.webcms:webcms-server:11.0.1 with classifier  to /webcms-server/target/classes
+2020-08-24 11:53:31,620 [Worker-23: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: za.org.ccma.webcms:webcms-standalone:11.0.1 @ C:\Users\PheelloM\Documents\workspaces\ADCMS\webcms-standalone\pom.xml.
+2020-08-24 11:53:31,627 [Worker-23: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-client: za.org.ccma.webcms:webcms-client:11.0.1 with classifier  to /webcms-client/target/classes
+2020-08-24 11:53:31,637 [Worker-23: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-common: za.org.ccma.webcms:webcms-common:11.0.1 with classifier  to /webcms-common/target/classes
+2020-08-24 11:53:31,644 [Worker-23: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-server: za.org.ccma.webcms:webcms-server:11.0.1 with classifier  to /webcms-server/target/classes
+2020-08-24 11:53:31,712 [Worker-23: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: za.org.ccma.webcms:webcms-client:11.0.1 @ C:\Users\PheelloM\Documents\workspaces\ADCMS\webcms-client\pom.xml.
+2020-08-24 11:53:31,727 [Worker-23: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-common: za.org.ccma.webcms:webcms-common:11.0.1 with classifier  to /webcms-common/target/classes
+2020-08-24 11:53:31,795 [Worker-23: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: za.org.ccma.webcms:webcms-application:11.0.1 @ C:\Users\PheelloM\Documents\workspaces\ADCMS\webcms-application\pom.xml.
+2020-08-24 11:53:31,804 [Worker-23: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-server: za.org.ccma.webcms:webcms-server:11.0.1 with classifier  to /webcms-server/target/classes
+2020-08-24 11:53:31,804 [Worker-23: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-common: za.org.ccma.webcms:webcms-common:11.0.1 with classifier  to /webcms-common/target/classes
+2020-08-24 11:53:31,893 [Worker-23: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: za.org.ccma.webcms:webcms-tests:11.0.1 @ C:\Users\PheelloM\Documents\workspaces\ADCMS\webcms-tests\pom.xml.
+2020-08-24 11:53:31,910 [Worker-23: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-client: za.org.ccma.webcms:webcms-client:11.0.1 with classifier  to /webcms-client/target/classes
+2020-08-24 11:53:31,920 [Worker-23: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-common: za.org.ccma.webcms:webcms-common:11.0.1 with classifier  to /webcms-common/target/classes
+2020-08-24 11:53:31,929 [Worker-23: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-server: za.org.ccma.webcms:webcms-server:11.0.1 with classifier  to /webcms-server/target/classes
+2020-08-24 11:53:32,009 [Worker-23: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: za.org.ccma.webcms:webcms-standalone:11.0.1 @ C:\Users\PheelloM\Documents\workspaces\ADCMS\webcms-standalone\pom.xml.
+2020-08-24 11:53:32,037 [Worker-23: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-client: za.org.ccma.webcms:webcms-client:11.0.1 with classifier  to /webcms-client/target/classes
+2020-08-24 11:53:32,049 [Worker-23: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-common: za.org.ccma.webcms:webcms-common:11.0.1 with classifier  to /webcms-common/target/classes
+2020-08-24 11:53:32,057 [Worker-23: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-server: za.org.ccma.webcms:webcms-server:11.0.1 with classifier  to /webcms-server/target/classes
+2020-08-24 11:53:32,312 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://nexus.opencollab.co.za/nexus/content/groups/public/ldap/projects/webcms-client/11.0.1/webcms-client-11.0.1-sources.jar
+2020-08-24 11:53:32,325 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://nexus.opencollab.co.za/nexus/content/repositories/thirdparty/ldap/projects/webcms-client/11.0.1/webcms-client-11.0.1-sources.jar
+2020-08-24 11:53:32,345 [Worker-11: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for ldap.projects:webcms-client:11.0.1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact ldap.projects:webcms-client:jar:sources:11.0.1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:803) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:771) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:748) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1373) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.700.v20200106-1020.jar:na]
+2020-08-24 11:53:32,448 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://nexus.opencollab.co.za/nexus/content/groups/public/ldap/projects/webcms-server/11.0.1/webcms-server-11.0.1-sources.jar
+2020-08-24 11:53:32,457 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://nexus.opencollab.co.za/nexus/content/repositories/thirdparty/ldap/projects/webcms-server/11.0.1/webcms-server-11.0.1-sources.jar
+2020-08-24 11:53:32,463 [Worker-11: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for ldap.projects:webcms-server:11.0.1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact ldap.projects:webcms-server:jar:sources:11.0.1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:803) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:771) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:748) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1373) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.700.v20200106-1020.jar:na]
+2020-08-24 11:53:32,706 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://nexus.opencollab.co.za/nexus/content/groups/public/za/org/ccma/webcms/webcms-server/11.0.1/webcms-server-11.0.1-javadoc.jar
+2020-08-24 11:53:32,714 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://nexus.opencollab.co.za/nexus/content/repositories/thirdparty/za/org/ccma/webcms/webcms-server/11.0.1/webcms-server-11.0.1-javadoc.jar
+2020-08-24 11:53:32,720 [Worker-11: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for za.org.ccma.webcms:webcms-server:11.0.1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact za.org.ccma.webcms:webcms-server:jar:javadoc:11.0.1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:803) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:771) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:748) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1373) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.700.v20200106-1020.jar:na]
+2020-08-24 11:54:28,986 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 11:54:28,989 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-24 11:54:28,993 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 11:54:28,994 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-24 11:54:59,343 [Worker-24: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-08-24 11:55:00,440 [Worker-24: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ldap.projects:ldaptest:0.0.1-SNAPSHOT @ C:\Users\PheelloM\Documents\workspaces\ADCMS\ldaptest\pom.xml.
+2020-08-24 11:55:02,067 [Worker-24: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: za.org.ccma.webcms:webcms-parent:2.0 @ C:\Users\PheelloM\Documents\workspaces\JulyRelease\pom.xml.
+2020-08-24 11:55:02,149 [Worker-24: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ldap.projects:ldaptest:0.0.1-SNAPSHOT @ C:\Users\PheelloM\Documents\workspaces\ADCMS\ldaptest\pom.xml.
+2020-08-24 11:55:25,791 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://nexus.opencollab.co.za/nexus/content/groups/public/ldap/projects/webcms-client/11.0.1/webcms-client-11.0.1-javadoc.jar
+2020-08-24 11:56:42,183 [AetherRepositoryConnector-nexus.opencollab.co.za-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://nexus.opencollab.co.za/nexus/content/groups/public/com/sun/jndi/ldap/1.2.4/ldap-1.2.4.jar
+2020-08-24 11:56:42,185 [AetherRepositoryConnector-nexus.opencollab.co.za-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://nexus.opencollab.co.za/nexus/content/groups/public/ldap/projects/webcms-server/11.0.1/webcms-server-11.0.1.jar
+2020-08-24 11:56:42,190 [AetherRepositoryConnector-nexus.opencollab.co.za-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://nexus.opencollab.co.za/nexus/content/groups/public/ldap/projects/webcms-client/11.0.1/webcms-client-11.0.1.jar
+2020-08-24 11:56:42,192 [AetherRepositoryConnector-nexus.opencollab.co.za-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://nexus.opencollab.co.za/nexus/content/groups/public/ldap/projects/webcms-standalone-configuration/2.1/webcms-standalone-configuration-2.1.jar
+2020-08-24 11:57:05,821 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://nexus.opencollab.co.za/nexus/content/repositories/thirdparty/ldap/projects/webcms-client/11.0.1/webcms-client-11.0.1-javadoc.jar
+2020-08-24 11:57:05,829 [Worker-11: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for ldap.projects:webcms-client:11.0.1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact ldap.projects:webcms-client:jar:javadoc:11.0.1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:803) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:771) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:748) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1373) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.700.v20200106-1020.jar:na]
+2020-08-24 11:58:22,228 [AetherRepositoryConnector-nexus.opencollab.co.za-1-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://nexus.opencollab.co.za/nexus/content/repositories/thirdparty/com/sun/jndi/ldap/1.2.4/ldap-1.2.4.jar
+2020-08-24 11:58:22,228 [AetherRepositoryConnector-nexus.opencollab.co.za-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://nexus.opencollab.co.za/nexus/content/repositories/thirdparty/ldap/projects/webcms-server/11.0.1/webcms-server-11.0.1.jar
+2020-08-24 11:58:22,228 [AetherRepositoryConnector-nexus.opencollab.co.za-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://nexus.opencollab.co.za/nexus/content/repositories/thirdparty/ldap/projects/webcms-client/11.0.1/webcms-client-11.0.1.jar
+2020-08-24 11:58:22,229 [AetherRepositoryConnector-nexus.opencollab.co.za-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://nexus.opencollab.co.za/nexus/content/repositories/thirdparty/ldap/projects/webcms-standalone-configuration/2.1/webcms-standalone-configuration-2.1.jar
+2020-08-24 11:58:23,182 [Worker-24: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 203 sec
+2020-08-24 11:58:29,678 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 11:58:29,682 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-24 11:58:29,685 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 11:58:29,686 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-24 11:58:29,854 [Worker-9: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: za.org.ccma.webcms:webcms-application:12.0.3 @ C:\Users\PheelloM\Documents\workspaces\JulyRelease\webcms-application\pom.xml.
+2020-08-24 11:58:30,947 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 11:58:30,948 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-24 11:58:30,979 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 11:58:30,979 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\PheelloM\Documents\workspaces\JulyRelease\webcms-application\src\test\resources
+2020-08-24 11:58:30,980 [Worker-9: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for webcms-application
+2020-08-24 11:58:30,990 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 11:58:30,991 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-08-24 11:58:31,491 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 11:58:31,492 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-24 11:58:31,493 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 11:58:31,494 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\PheelloM\Documents\workspaces\JulyRelease\webcms-application\src\test\resources
+2020-08-24 11:58:31,494 [Worker-4: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for webcms-application
+2020-08-24 11:58:31,502 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 11:58:31,503 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-24 11:58:31,613 [Worker-4: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: za.org.ccma.webcms:webcms-bundles:2.0 @ C:\Users\PheelloM\Documents\workspaces\JulyRelease\webcms-bundles\pom.xml.
+2020-08-24 11:58:38,646 [Worker-24: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: za.org.ccma.webcms:webcms-client:12.0.3 @ C:\Users\PheelloM\Documents\workspaces\JulyRelease\webcms-client\pom.xml.
+2020-08-24 11:58:39,313 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 11:58:39,321 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 445 resources
+2020-08-24 11:58:40,510 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 11:58:40,511 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-24 11:58:41,090 [Worker-27: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: za.org.ccma.webcms:webcms-client-bundle:12.0.3 @ C:\Users\PheelloM\Documents\workspaces\JulyRelease\webcms-bundles\webcms-client-bundle\pom.xml.
+2020-08-24 11:58:41,804 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: za.org.ccma.webcms:webcms-client-configuration:12.0.3 @ C:\Users\PheelloM\Documents\workspaces\JulyRelease\webcms-configuration\webcms-client-configuration\pom.xml.
+2020-08-24 11:58:41,890 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: za.org.ccma.webcms:webcms-client:12.0.3 @ C:\Users\PheelloM\Documents\workspaces\JulyRelease\webcms-client\pom.xml.
+2020-08-24 11:58:42,049 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: za.org.ccma.webcms:webcms-client-bundle:12.0.3 @ C:\Users\PheelloM\Documents\workspaces\JulyRelease\webcms-bundles\webcms-client-bundle\pom.xml.
+2020-08-24 11:58:42,055 [Worker-0: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-client: za.org.ccma.webcms:webcms-client:12.0.3 with classifier  to /webcms-client/target/classes
+2020-08-24 11:58:45,914 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://nexus.opencollab.co.za/nexus/content/groups/public/ldap/projects/webcms-server/11.0.1/webcms-server-11.0.1-javadoc.jar
+2020-08-24 12:00:22,089 [Worker-0: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://nexus.opencollab.co.za/nexus/content/groups/public/za/org/ccma/webcms/webcms-common/12.0.3/webcms-common-12.0.3.jar
+2020-08-24 12:00:26,172 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://nexus.opencollab.co.za/nexus/content/repositories/thirdparty/ldap/projects/webcms-server/11.0.1/webcms-server-11.0.1-javadoc.jar
+2020-08-24 12:00:26,177 [Worker-11: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for ldap.projects:webcms-server:11.0.1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact ldap.projects:webcms-server:jar:javadoc:11.0.1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:803) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:771) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:748) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1373) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.700.v20200106-1020.jar:na]
+2020-08-24 12:02:02,110 [Worker-0: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://nexus.opencollab.co.za/nexus/content/repositories/thirdparty/za/org/ccma/webcms/webcms-common/12.0.3/webcms-common-12.0.3.jar
+2020-08-24 12:02:02,312 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 12:02:02,312 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2020-08-24 12:02:02,343 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 12:02:02,343 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\PheelloM\Documents\workspaces\JulyRelease\webcms-configuration\webcms-client-configuration\src\test\resources
+2020-08-24 12:02:02,717 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 12:02:02,717 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-24 12:02:02,719 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 12:02:02,719 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-24 12:02:02,728 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 12:02:02,729 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-24 12:02:02,733 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 12:02:02,733 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\PheelloM\Documents\workspaces\JulyRelease\webcms-application\src\test\resources
+2020-08-24 12:02:02,832 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 12:02:02,832 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-24 12:02:02,834 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 12:02:02,834 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-24 12:02:02,898 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 12:02:02,901 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2020-08-24 12:02:02,919 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 12:02:02,919 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\PheelloM\Documents\workspaces\JulyRelease\webcms-configuration\webcms-client-configuration\src\test\resources
+2020-08-24 12:02:06,133 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: za.org.ccma.webcms:webcms-common:12.0.3 @ C:\Users\PheelloM\Documents\workspaces\JulyRelease\webcms-common\pom.xml.
+2020-08-24 12:02:06,215 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://nexus.opencollab.co.za/nexus/content/groups/public/za/org/ccma/webcms/webcms-server/12.0.3/webcms-server-12.0.3-sources.jar
+2020-08-24 12:02:06,307 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: za.org.ccma.webcms:webcms-client:12.0.3 @ C:\Users\PheelloM\Documents\workspaces\JulyRelease\webcms-client\pom.xml.
+2020-08-24 12:02:06,323 [Worker-0: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-common: za.org.ccma.webcms:webcms-common:12.0.3 with classifier  to /webcms-common/target/classes
+2020-08-24 12:02:06,351 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: za.org.ccma.webcms:webcms-client-bundle:12.0.3 @ C:\Users\PheelloM\Documents\workspaces\JulyRelease\webcms-bundles\webcms-client-bundle\pom.xml.
+2020-08-24 12:02:06,359 [Worker-0: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-client: za.org.ccma.webcms:webcms-client:12.0.3 with classifier  to /webcms-client/target/classes
+2020-08-24 12:02:06,364 [Worker-0: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-common: za.org.ccma.webcms:webcms-common:12.0.3 with classifier  to /webcms-common/target/classes
+2020-08-24 12:02:06,793 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 12:02:06,793 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-24 12:02:06,796 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 12:02:06,796 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-24 12:02:20,004 [Worker-28: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-common: za.org.ccma.webcms:webcms-common:12.0.3 with classifier  to /webcms-common/target/classes
+2020-08-24 12:02:20,034 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 12:02:20,127 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 445 resources
+2020-08-24 12:02:21,251 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 12:02:21,253 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-24 12:02:30,926 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 12:02:30,959 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 445 resources
+2020-08-24 12:02:31,013 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 12:02:31,013 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-24 12:02:31,233 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 12:02:31,233 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-24 12:02:31,237 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 12:02:31,237 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-24 12:02:31,447 [Worker-26: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: za.org.ccma.webcms:webcms-server:12.0.3 @ C:\Users\PheelloM\Documents\workspaces\JulyRelease\webcms-server\pom.xml.
+2020-08-24 12:02:31,533 [Worker-26: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-common: za.org.ccma.webcms:webcms-common:12.0.3 with classifier  to /webcms-common/target/classes
+2020-08-24 12:02:31,613 [Worker-26: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: za.org.ccma.webcms:webcms-application:12.0.3 @ C:\Users\PheelloM\Documents\workspaces\JulyRelease\webcms-application\pom.xml.
+2020-08-24 12:02:31,623 [Worker-26: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-server: za.org.ccma.webcms:webcms-server:12.0.3 with classifier  to /webcms-server/target/classes
+2020-08-24 12:02:31,624 [Worker-26: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-common: za.org.ccma.webcms:webcms-common:12.0.3 with classifier  to /webcms-common/target/classes
+2020-08-24 12:02:32,430 [Worker-26: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-server: za.org.ccma.webcms:webcms-server:12.0.3 with classifier  to /webcms-server/target/classes
+2020-08-24 12:02:32,430 [Worker-26: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-common: za.org.ccma.webcms:webcms-common:12.0.3 with classifier  to /webcms-common/target/classes
+2020-08-24 12:02:32,702 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 12:02:32,702 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-24 12:02:32,704 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 12:02:32,705 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-24 12:02:33,037 [Worker-27: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-server: za.org.ccma.webcms:webcms-server:12.0.3 with classifier  to /webcms-server/target/classes
+2020-08-24 12:02:33,037 [Worker-27: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-common: za.org.ccma.webcms:webcms-common:12.0.3 with classifier  to /webcms-common/target/classes
+2020-08-24 12:02:33,054 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 12:02:33,056 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-24 12:02:33,148 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 12:02:33,149 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\PheelloM\Documents\workspaces\JulyRelease\webcms-application\src\test\resources
+2020-08-24 12:02:33,963 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 12:02:33,963 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-24 12:02:33,966 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 12:02:33,966 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\PheelloM\Documents\workspaces\JulyRelease\webcms-application\src\test\resources
+2020-08-24 12:02:33,967 [Worker-29: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for webcms-application
+2020-08-24 12:02:33,977 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 12:02:33,978 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-24 12:02:34,255 [Worker-29: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-common: za.org.ccma.webcms:webcms-common:12.0.3 with classifier  to /webcms-common/target/classes
+2020-08-24 12:02:34,268 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 12:02:34,365 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 445 resources
+2020-08-24 12:02:34,435 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 12:02:34,435 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-24 12:02:37,322 [Worker-26: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-common: za.org.ccma.webcms:webcms-common:12.0.3 with classifier  to /webcms-common/target/classes
+2020-08-24 12:02:37,333 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 12:02:37,334 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-24 12:02:37,335 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 12:02:37,336 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-24 12:02:37,496 [Worker-26: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: za.org.ccma.webcms:webcms-standalone:12.0.3 @ C:\Users\PheelloM\Documents\workspaces\JulyRelease\webcms-standalone\pom.xml.
+2020-08-24 12:02:37,597 [Worker-26: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-client: za.org.ccma.webcms:webcms-client:12.0.3 with classifier  to /webcms-client/target/classes
+2020-08-24 12:02:37,603 [Worker-26: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-common: za.org.ccma.webcms:webcms-common:12.0.3 with classifier  to /webcms-common/target/classes
+2020-08-24 12:02:37,607 [Worker-26: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-server: za.org.ccma.webcms:webcms-server:12.0.3 with classifier  to /webcms-server/target/classes
+2020-08-24 12:02:37,807 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 12:02:37,807 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\PheelloM\Documents\workspaces\JulyRelease\webcms-standalone\src\main\resources
+2020-08-24 12:02:38,680 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Configured Artifact: net.sf.jacob-project:jacob:x64:1.14.3:dll
+2020-08-24 12:02:38,685 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Configured Artifact: net.sf.jacob-project:jacob:x86:1.14.3:dll
+2020-08-24 12:02:38,686 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying jacob-1.14.3-x64.dll to C:\Users\PheelloM\Documents\workspaces\JulyRelease\webcms-standalone\target\lib\jacob-1.14.3-x64.dll
+2020-08-24 12:02:38,709 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying jacob-1.14.3-x86.dll to C:\Users\PheelloM\Documents\workspaces\JulyRelease\webcms-standalone\target\lib\jacob-1.14.3-x86.dll
+2020-08-24 12:02:38,717 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 12:02:38,717 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\PheelloM\Documents\workspaces\JulyRelease\webcms-standalone\src\test\resources
+2020-08-24 12:02:39,102 [Worker-28: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-client: za.org.ccma.webcms:webcms-client:12.0.3 with classifier  to /webcms-client/target/classes
+2020-08-24 12:02:39,106 [Worker-28: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-common: za.org.ccma.webcms:webcms-common:12.0.3 with classifier  to /webcms-common/target/classes
+2020-08-24 12:02:39,110 [Worker-28: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-server: za.org.ccma.webcms:webcms-server:12.0.3 with classifier  to /webcms-server/target/classes
+2020-08-24 12:02:39,115 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 12:02:39,116 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\PheelloM\Documents\workspaces\JulyRelease\webcms-standalone\src\main\resources
+2020-08-24 12:02:39,117 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 12:02:39,118 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\PheelloM\Documents\workspaces\JulyRelease\webcms-standalone\src\test\resources
+2020-08-24 12:02:39,168 [Worker-28: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: za.org.ccma.webcms:webcms-standalone-bundle:12.0.3 @ C:\Users\PheelloM\Documents\workspaces\JulyRelease\webcms-bundles\webcms-standalone-bundle\pom.xml.
+2020-08-24 12:02:39,266 [Worker-28: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-standalone: za.org.ccma.webcms:webcms-standalone:12.0.3 with classifier  to /webcms-standalone/target/classes
+2020-08-24 12:02:39,267 [Worker-28: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-client: za.org.ccma.webcms:webcms-client:12.0.3 with classifier  to /webcms-client/target/classes
+2020-08-24 12:02:39,274 [Worker-28: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-common: za.org.ccma.webcms:webcms-common:12.0.3 with classifier  to /webcms-common/target/classes
+2020-08-24 12:02:39,277 [Worker-28: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-server: za.org.ccma.webcms:webcms-server:12.0.3 with classifier  to /webcms-server/target/classes
+2020-08-24 12:02:39,534 [Worker-28: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: za.org.ccma.webcms:webcms-standalone-configuration:12.0.3 @ C:\Users\PheelloM\Documents\workspaces\JulyRelease\webcms-configuration\webcms-standalone-configuration\pom.xml.
+2020-08-24 12:02:39,616 [Worker-28: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: za.org.ccma.webcms:webcms-standalone:12.0.3 @ C:\Users\PheelloM\Documents\workspaces\JulyRelease\webcms-standalone\pom.xml.
+2020-08-24 12:02:39,766 [Worker-28: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-client: za.org.ccma.webcms:webcms-client:12.0.3 with classifier  to /webcms-client/target/classes
+2020-08-24 12:02:39,777 [Worker-28: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-common: za.org.ccma.webcms:webcms-common:12.0.3 with classifier  to /webcms-common/target/classes
+2020-08-24 12:02:39,786 [Worker-28: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-server: za.org.ccma.webcms:webcms-server:12.0.3 with classifier  to /webcms-server/target/classes
+2020-08-24 12:02:39,830 [Worker-28: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: za.org.ccma.webcms:webcms-standalone-bundle:12.0.3 @ C:\Users\PheelloM\Documents\workspaces\JulyRelease\webcms-bundles\webcms-standalone-bundle\pom.xml.
+2020-08-24 12:02:39,840 [Worker-28: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-standalone: za.org.ccma.webcms:webcms-standalone:12.0.3 with classifier  to /webcms-standalone/target/classes
+2020-08-24 12:02:39,840 [Worker-28: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-client: za.org.ccma.webcms:webcms-client:12.0.3 with classifier  to /webcms-client/target/classes
+2020-08-24 12:02:39,846 [Worker-28: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-common: za.org.ccma.webcms:webcms-common:12.0.3 with classifier  to /webcms-common/target/classes
+2020-08-24 12:02:39,851 [Worker-28: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-server: za.org.ccma.webcms:webcms-server:12.0.3 with classifier  to /webcms-server/target/classes
+2020-08-24 12:02:40,177 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 12:02:40,178 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-08-24 12:02:40,249 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 12:02:40,249 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\PheelloM\Documents\workspaces\JulyRelease\webcms-configuration\webcms-standalone-configuration\src\test\resources
+2020-08-24 12:02:40,910 [Worker-29: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-client: za.org.ccma.webcms:webcms-client:12.0.3 with classifier  to /webcms-client/target/classes
+2020-08-24 12:02:40,918 [Worker-29: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-common: za.org.ccma.webcms:webcms-common:12.0.3 with classifier  to /webcms-common/target/classes
+2020-08-24 12:02:40,924 [Worker-29: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-server: za.org.ccma.webcms:webcms-server:12.0.3 with classifier  to /webcms-server/target/classes
+2020-08-24 12:02:40,933 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 12:02:40,933 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\PheelloM\Documents\workspaces\JulyRelease\webcms-standalone\src\main\resources
+2020-08-24 12:02:40,935 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 12:02:40,935 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\PheelloM\Documents\workspaces\JulyRelease\webcms-standalone\src\test\resources
+2020-08-24 12:02:41,040 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 12:02:41,043 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-08-24 12:02:41,137 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 12:02:41,137 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\PheelloM\Documents\workspaces\JulyRelease\webcms-configuration\webcms-standalone-configuration\src\test\resources
+2020-08-24 12:02:41,258 [Worker-29: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: za.org.ccma.webcms:webcms-tests:12.0.3 @ C:\Users\PheelloM\Documents\workspaces\JulyRelease\webcms-tests\pom.xml.
+2020-08-24 12:02:41,331 [Worker-29: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-client: za.org.ccma.webcms:webcms-client:12.0.3 with classifier  to /webcms-client/target/classes
+2020-08-24 12:02:41,334 [Worker-29: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-common: za.org.ccma.webcms:webcms-common:12.0.3 with classifier  to /webcms-common/target/classes
+2020-08-24 12:02:41,337 [Worker-29: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-server: za.org.ccma.webcms:webcms-server:12.0.3 with classifier  to /webcms-server/target/classes
+2020-08-24 12:02:41,489 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 12:02:41,490 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-24 12:02:41,493 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 12:02:41,494 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2020-08-24 12:02:41,592 [Worker-29: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-client: za.org.ccma.webcms:webcms-client:12.0.3 with classifier  to /webcms-client/target/classes
+2020-08-24 12:02:41,598 [Worker-29: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-common: za.org.ccma.webcms:webcms-common:12.0.3 with classifier  to /webcms-common/target/classes
+2020-08-24 12:02:41,602 [Worker-29: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-server: za.org.ccma.webcms:webcms-server:12.0.3 with classifier  to /webcms-server/target/classes
+2020-08-24 12:02:41,625 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying classes to C:\Users\PheelloM\Documents\workspaces\JulyRelease\webcms-tests\target\lib\webcms-common-12.0.3.jar
+2020-08-24 12:02:41,714 [Worker-29: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: za.org.ccma.webcms:webcms-webstart:12.0.3 @ C:\Users\PheelloM\Documents\workspaces\JulyRelease\webcms-webstart\pom.xml.
+2020-08-24 12:02:42,160 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 12:02:42,160 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-08-24 12:02:42,170 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 12:02:42,170 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\PheelloM\Documents\workspaces\JulyRelease\webcms-webstart\src\test\resources
+2020-08-24 12:02:42,170 [Worker-29: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for webcms-webstart
+2020-08-24 12:02:42,174 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 12:02:42,175 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-08-24 12:03:31,398 [Worker-30: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-common: za.org.ccma.webcms:webcms-common:12.0.3 with classifier  to /webcms-common/target/classes
+2020-08-24 12:03:31,405 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 12:03:31,445 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 445 resources
+2020-08-24 12:03:31,514 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 12:03:31,515 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-24 12:03:32,352 [Worker-0: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-client: za.org.ccma.webcms:webcms-client:12.0.3 with classifier  to /webcms-client/target/classes
+2020-08-24 12:03:32,357 [Worker-0: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-common: za.org.ccma.webcms:webcms-common:12.0.3 with classifier  to /webcms-common/target/classes
+2020-08-24 12:03:32,362 [Worker-0: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-server: za.org.ccma.webcms:webcms-server:12.0.3 with classifier  to /webcms-server/target/classes
+2020-08-24 12:03:32,366 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 12:03:32,367 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-24 12:03:32,371 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 12:03:32,375 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2020-08-24 12:03:32,527 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 12:03:32,528 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-08-24 12:03:32,538 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 12:03:32,538 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\PheelloM\Documents\workspaces\JulyRelease\webcms-webstart\src\test\resources
+2020-08-24 12:03:32,539 [Worker-0: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for webcms-webstart
+2020-08-24 12:03:32,545 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'Cp1252' encoding to copy filtered resources.
+2020-08-24 12:03:32,545 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-24 12:03:46,246 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://nexus.opencollab.co.za/nexus/content/repositories/thirdparty/za/org/ccma/webcms/webcms-server/12.0.3/webcms-server-12.0.3-sources.jar
+2020-08-24 12:03:46,252 [Worker-11: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for za.org.ccma.webcms:webcms-server:12.0.3
+org.eclipse.core.runtime.CoreException: Could not resolve artifact za.org.ccma.webcms:webcms-server:jar:sources:12.0.3
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:803) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:771) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:748) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1373) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.700.v20200106-1020.jar:na]
+2020-08-24 12:05:26,388 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://nexus.opencollab.co.za/nexus/content/groups/public/za/org/ccma/webcms/webcms-common/12.0.3/webcms-common-12.0.3-sources.jar
+2020-08-24 12:07:06,413 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://nexus.opencollab.co.za/nexus/content/repositories/thirdparty/za/org/ccma/webcms/webcms-common/12.0.3/webcms-common-12.0.3-sources.jar
+2020-08-24 12:07:06,418 [Worker-11: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for za.org.ccma.webcms:webcms-common:12.0.3
+org.eclipse.core.runtime.CoreException: Could not resolve artifact za.org.ccma.webcms:webcms-common:jar:sources:12.0.3
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:803) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:771) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:748) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1373) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.700.v20200106-1020.jar:na]
+2020-08-24 12:07:06,583 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-client: za.org.ccma.webcms:webcms-client:12.0.3 with classifier  to /webcms-client/target/classes
+2020-08-24 12:07:06,587 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/webcms-common: za.org.ccma.webcms:webcms-common:12.0.3 with classifier  to /webcms-common/target/classes
+2020-08-24 12:08:46,659 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://nexus.opencollab.co.za/nexus/content/groups/public/za/org/ccma/webcms/webcms-client/12.0.3/webcms-client-12.0.3-sources.jar
+2020-08-24 12:10:26,766 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://nexus.opencollab.co.za/nexus/content/repositories/thirdparty/za/org/ccma/webcms/webcms-client/12.0.3/webcms-client-12.0.3-sources.jar
+2020-08-24 12:10:26,776 [Worker-11: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for za.org.ccma.webcms:webcms-client:12.0.3
+org.eclipse.core.runtime.CoreException: Could not resolve artifact za.org.ccma.webcms:webcms-client:jar:sources:12.0.3
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:803) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:771) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:748) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1373) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.700.v20200106-1020.jar:na]
+2020-08-24 12:12:06,813 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://nexus.opencollab.co.za/nexus/content/groups/public/za/org/ccma/webcms/webcms-common/12.0.3/webcms-common-12.0.3-javadoc.jar
+2020-08-24 12:13:46,836 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://nexus.opencollab.co.za/nexus/content/repositories/thirdparty/za/org/ccma/webcms/webcms-common/12.0.3/webcms-common-12.0.3-javadoc.jar
+2020-08-24 12:13:46,844 [Worker-11: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for za.org.ccma.webcms:webcms-common:12.0.3
+org.eclipse.core.runtime.CoreException: Could not resolve artifact za.org.ccma.webcms:webcms-common:jar:javadoc:12.0.3
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:803) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:771) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:748) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1373) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.700.v20200106-1020.jar:na]

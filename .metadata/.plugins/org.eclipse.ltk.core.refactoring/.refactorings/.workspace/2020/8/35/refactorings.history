@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 10 resources" deleteContents="false" description="Delete 10 resources" element1="/webcms-application" element10="/webcms-webstart" element2="/webcms-bundles" element3="/webcms-client" element4="/webcms-client-configuration" element5="/webcms-common" element6="/webcms-server" element7="/webcms-standalone" element8="/webcms-standalone-configuration" element9="/webcms-tests" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="10" stamp="1598262853720"/>
+</session>
